@@ -1,0 +1,25 @@
+Package: geneticTMT
+Version: 0.1.0
+Date: 2024-07-01
+Depends: R (>= 4.0.0)
+Imports: stats
+Suggests: testthat
+Title: Genetic Transmission Mean Test
+Authors@R: c(
+    person(given = "Yushi",
+	   family = "Tang",
+	   role = c("aut", "cre"),
+	   email = "yushi.tang@princeton.edu",
+           comment = c(ORCID = "0000-0002-3809-2129")),
+    person(given = "John D.",
+           family = "Storey",
+	   role = c("aut"),
+	   email = "jstorey@princeton.edu",
+           comment = c(ORCID = "0000-0001-5992-402X"))
+    )
+Maintainer: Yushi Tang <yushi.tang@princeton.edu>
+Description: Functions for inferring causal genotype-phenotype relationships for population-sampled nuclear families.
+License: GPL-3 + file LICENSE
+URL: https://github.com/StoreyLab/geneticTMT
+RoxygenNote: 7.3.1
+Encoding: UTF-8
