@@ -1,6 +1,6 @@
 Package: geneticTMT
-Version: 0.1.0
-Date: 2024-07-01
+Version: 0.1.2
+Date: 2026-05-04
 Depends: R (>= 4.0.0)
 Imports: stats
 Suggests: testthat
@@ -21,5 +21,6 @@ Maintainer: Yushi Tang <yushi.tang@princeton.edu>
 Description: Functions for inferring causal genotype-phenotype relationships for population-sampled nuclear families.
 License: GPL-3 + file LICENSE
 URL: https://github.com/StoreyLab/geneticTMT
-RoxygenNote: 7.3.1
+RoxygenNote: 7.3.3
 Encoding: UTF-8
+LazyData: true
