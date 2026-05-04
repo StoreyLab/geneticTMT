@@ -7,8 +7,8 @@ The `geneticTMT` R package implements the Transmission Mean Test (TMT) for popul
 ## Installation
 
 ```R
-install.packages("devtools")
-devtools::install_github("StoreyLab/geneticTMT")
+install.packages("pak")
+pak::pak("StoreyLab/geneticTMT")
 ```
 
 ## Examples
